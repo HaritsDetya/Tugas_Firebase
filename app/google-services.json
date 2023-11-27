@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962097496130",
+    "project_id": "budgetbuddy-11702",
+    "storage_bucket": "budgetbuddy-11702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962097496130:android:e3a7ad0ebb1d9beab8addb",
+        "android_client_info": {
+          "package_name": "com.example.tugas_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ5yrurcAoMKeatjZDTjx5Vw8fl3eQOlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
